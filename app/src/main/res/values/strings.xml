@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CA2Practical-d4</string>
+    <string name="ntu">Nanyang Technological University</string>
+    <string name="nus">National University of Singapore</string>
+    <string name="sit">Singapore Institute of Technology</string>
+    <string name="smu">Singapore Management University</string>
+    <string name="suss">Singapore University of Social</string>
+    <string name="sutd">Singapore University of Technology and Design</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CollectionActivity">
+
+    <TextView
+        android:id="@+id/ntu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ntu" />
+
+    <TextView
+        android:id="@+id/nus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nus"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/sit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sit" />
+
+    <TextView
+        android:id="@+id/smu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/smu" />
+
+    <TextView
+        android:id="@+id/sutd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sutd" />
+
+    <TextView
+        android:id="@+id/suss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/suss" />
+
+</LinearLayout>
